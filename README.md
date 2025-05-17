@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Thuan</h1>
-<h3 align="center">I am a software engineer, but the products I have made are carefully invested. </br>I am also an active person at work, constantly learning new skills. </br>I am always open to new opportunities and challenges. </br>If you would like to reach me, feel free to drop me a message in the email.</h3>
+<!-- <h3 align="center">I am a software engineer, but the products I have made are carefully invested. </br>I am also an active person at work, constantly learning new skills. </br>I am always open to new opportunities and challenges. </br>If you would like to reach me, feel free to drop me a message in the email.</h3> -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
